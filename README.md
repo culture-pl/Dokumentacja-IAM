@@ -2,7 +2,7 @@
 
 Skórka bazowa:
 https://www.drupal.org/project/zen
-SAAS + Compass
+(SAAS + Compass)
 
 Dokumentacja Zen Grids
 http://zengrids.com/
