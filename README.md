@@ -13,3 +13,13 @@ Zmienne zdefiniowane są tutaj: sites/all/themes/iam/sass/_init.scss
 
 Fonty włączone są tutaj: sites/all/themes/iam/sass/_normalize.scss
 
+Layout: sites/all/themes/iam/sass/layouts/_responsive.scss
+
+W katalogu components są style dla poszczególnych regionów, bloków, widoków itp.
+
+--------------------------------------------------------------------------------------
+
+Menu: moduł Superfish (menu RWD - Superfish plugin - sf-Smallscreen)
+
+Bloki: wyświetlanie skonfigurowane za pomocą modułu Context
+
