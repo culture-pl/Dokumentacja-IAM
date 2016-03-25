@@ -5,7 +5,7 @@ https://www.drupal.org/project/zen
 (SAAS + Compass)
 
 Dokumentacja Zen Grids
-http://zengrids.com/
+http://zengrids.com/ (wersja 1.5)
 http://zengrids.com/help/examples/
 
 Preferowane podejście RWD: mobile first
