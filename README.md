@@ -6,7 +6,6 @@ https://www.drupal.org/project/zen
 
 Dokumentacja Zen Grids
 http://v1.zengrids.com/ (wersja 1.5)
-http://zengrids.com/help/examples/
 
 Preferowane podejście RWD: mobile first
 
