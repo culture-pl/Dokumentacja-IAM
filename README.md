@@ -21,5 +21,4 @@ W katalogu components są style dla poszczególnych regionów, bloków, widoków
 
 Menu: moduł Superfish (menu RWD - Superfish plugin - sf-Smallscreen)
 
-Bloki: wyświetlanie skonfigurowane za pomocą modułu Context
-
+Bloki: wyświetlanie skonfigurowane za pomocą modułu Context. Własne bloki dodajemy jako "boxes" (https://www.drupal.org/project/boxes) - statamy się nie korzystać z drupalowego 'block'
