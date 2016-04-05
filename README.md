@@ -4,6 +4,13 @@ Skórka bazowa:
 https://www.drupal.org/project/zen
 (SAAS + Compass)
 
+Praca z compassem wymaga określonych wersji gemów. Z najnowszymi style nie są generowane poprawnie.
+
+sudo gem install bundler
+cd sites/all/themes/iam
+bundle install
+bundler exec compass watch
+
 Dokumentacja Zen Grids
 http://v1.zengrids.com/ (wersja 1.5)
 
