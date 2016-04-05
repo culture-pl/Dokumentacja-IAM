@@ -1,31 +1,31 @@
 # Dokumentacja-IAM
 
-Skórka bazowa:
-https://www.drupal.org/project/zen
-(SAAS + Compass)
+Skórka bazowa:  
+https://www.drupal.org/project/zen  
+(SAAS + Compass)  
 
-Praca z compassem wymaga określonych wersji gemów. Z najnowszymi style nie są generowane poprawnie.
+Praca z compassem wymaga określonych wersji gemów. Z najnowszymi style nie są generowane poprawnie.  
 
-sudo gem install bundler
-cd sites/all/themes/iam
-bundle install
-bundler exec compass watch
+sudo gem install bundler  
+cd sites/all/themes/iam  
+bundle install  
+bundler exec compass watch  
 
-Dokumentacja Zen Grids
-http://v1.zengrids.com/ (wersja 1.5)
+Dokumentacja Zen Grids  
+http://v1.zengrids.com/ (wersja 1.5)  
 
-Preferowane podejście RWD: mobile first
+Preferowane podejście RWD: mobile first  
 
-Zmienne zdefiniowane są tutaj: sites/all/themes/iam/sass/_init.scss
+Zmienne zdefiniowane są tutaj: sites/all/themes/iam/sass/_init.scss  
 
-Fonty włączone są tutaj: sites/all/themes/iam/sass/_normalize.scss
+Fonty włączone są tutaj: sites/all/themes/iam/sass/_normalize.scss  
 
-Layout: sites/all/themes/iam/sass/layouts/_responsive.scss
+Layout: sites/all/themes/iam/sass/layouts/_responsive.scss  
 
-W katalogu components są style dla poszczególnych regionów, bloków, widoków itp.
+W katalogu components są style dla poszczególnych regionów, bloków, widoków itp.  
 
---------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------  
 
-Menu: moduł Superfish (menu RWD - Superfish plugin - sf-Smallscreen)
+Menu: moduł Superfish (menu RWD - Superfish plugin - sf-Smallscreen)  
 
-Bloki: wyświetlanie skonfigurowane za pomocą modułu Context. Własne bloki dodajemy jako "boxes" (https://www.drupal.org/project/boxes) - nie korzystamy z drupalowego 'block'
+Bloki: wyświetlanie skonfigurowane za pomocą modułu Context. Własne bloki dodajemy jako "boxes" (https://www.drupal.org/project/boxes) - nie korzystamy z drupalowego 'block'  
