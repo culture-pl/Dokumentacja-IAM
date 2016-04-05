@@ -6,7 +6,7 @@ https://www.drupal.org/project/zen
 
 Praca z compassem wymaga określonych wersji gemów. Z najnowszymi style nie są generowane poprawnie.
 
-sudo gem install bundler 
+sudo gem install bundler
 cd sites/all/themes/iam 
 bundle install 
 bundler exec compass watch 
