@@ -27,7 +27,14 @@ Layout: sites/all/themes/iam/sass/layouts/_responsive.scss
 W katalogu components są style dla poszczególnych regionów, bloków, widoków itp.  
 
 --------------------------------------------------------------------------------------  
+## System Menu
 
 Menu: moduł Superfish (menu RWD - Superfish plugin - sf-Smallscreen)  
+
+## Moduł Features
+
+Zmiany konfiguracji eksportujemy za pomoca modułu Features (https://www.drupal.org/project/features), moduły wygenerowane nazywamy z prefixem "iam_" oreślając w języku angielskim zawartosć (częśc funkcjonalnosci) z którą jest powiązany i zapisujemy w katalogu "sites/all/modules/features/".
+
+Język źródłowy kodu, nazwy modułów, jezyk features i stringi w kodzie mają mieć jezyk źródłowy angielski.
 
 Bloki: wyświetlanie skonfigurowane za pomocą modułu Context. Własne bloki dodajemy jako "boxes" (https://www.drupal.org/project/boxes) - nie korzystamy z drupalowego 'block'  
