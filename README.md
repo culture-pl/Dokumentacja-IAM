@@ -16,6 +16,17 @@ bundler exec compass watch
 Dokumentacja Zen Grids  
 http://v1.zengrids.com/ (wersja 1.5)  
 
+#####
+W razie problemów
+
+Reverting back to older versions worked for me:
+
+    sudo gem uninstall sass
+    sudo gem install sass -v 3.2.19
+    sudo gem uninstall compass
+    sudo gem install compass -v 0.12.6
+
+
 Preferowane podejście RWD: mobile first  
 
 Zmienne zdefiniowane są tutaj: sites/all/themes/iam/sass/_init.scss  
