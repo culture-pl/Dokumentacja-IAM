@@ -16,10 +16,7 @@ bundler exec compass watch
 Dokumentacja Zen Grids  
 http://v1.zengrids.com/ (wersja 1.5)  
 
-#####
-W razie problemów
-
-Reverting back to older versions worked for me:
+#### W razie problemów
 
     sudo gem uninstall sass
     sudo gem install sass -v 3.2.19
