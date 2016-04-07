@@ -1,7 +1,9 @@
 # Dokumentacja-IAM
 
-Skórka bazowa:  
-https://www.drupal.org/project/zen  
+## Szablon (Theme):  
+Szablon stworzony na bazie skórki Zen https://www.drupal.org/project/zen  
+
+### Compass + Sass
 (SAAS + Compass)  
 
 Praca z compassem wymaga określonych wersji gemów. Z najnowszymi style nie są generowane poprawnie.
