@@ -46,3 +46,8 @@ Zmiany konfiguracji eksportujemy za pomoca modułu Features (https://www.drupal.
 Język źródłowy kodu, nazwy modułów, jezyk features i stringi w kodzie mają mieć jezyk źródłowy angielski.
 
 Bloki: wyświetlanie skonfigurowane za pomocą modułu Context. Własne bloki dodajemy jako "boxes" (https://www.drupal.org/project/boxes) - nie korzystamy z drupalowego 'block'  
+
+##Funkcje scss
+
+em(size) - przelicza wielkość fontu w px na em'y na podstawie $base-font-size    
+Przykładowe użycie: font-size: em(24), gdzie 24 to wielkość fonta w px  
