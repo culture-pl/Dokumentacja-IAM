@@ -1,5 +1,10 @@
 # Dokumentacja-IAM
 
+## Aktualizacja Drupala:  
+po wykonaniu polecenna 'drush up drupal'
+zostanie nadpisany plik '.gitignore'
+należy go przywrócić np. za pomocą polecenia 'git checkout .gitignore' jeszcze przed zaindeksowaniem plików
+
 ## Szablon (Theme):  
 Szablon stworzony na bazie skórki Zen https://www.drupal.org/project/zen  
 
