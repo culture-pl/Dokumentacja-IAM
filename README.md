@@ -37,7 +37,10 @@ Fonty włączone są tutaj: sites/all/themes/iam/sass/_normalize.scss
 
 Layout: sites/all/themes/iam/sass/layouts/_responsive.scss  
 
-W katalogu components są style dla poszczególnych regionów, bloków, widoków itp.  
+W katalogu components są style dla poszczególnych regionów, bloków, widoków itp.
+
+#### UWAGA: wersja Compass-a 1.x powoduje rozsypanie grid-a. Ostatnia zalecana, działająca wersja to Compass 0.12.7 (Alnilam).
+
 
 --------------------------------------------------------------------------------------  
 ## System Menu
